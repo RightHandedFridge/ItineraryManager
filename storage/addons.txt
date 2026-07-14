@@ -1,0 +1,4 @@
+LNC	Lunch	15.0
+PIC	Photography	30.0
+VIP	VIP	50.0
+INS	Insurance	20.0
